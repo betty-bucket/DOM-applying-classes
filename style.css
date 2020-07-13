@@ -21,6 +21,18 @@ div {
   background-color: blue;
 }
 
+.green {
+  background-color: green;
+}
+
+.pink {
+  background-color: hotpink;
+}
+
+.purple {
+  background-color: indigo;
+}
+
 .invisible {
   display: none;
 }
